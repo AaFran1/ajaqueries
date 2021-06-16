@@ -15,4 +15,6 @@ Usamos intencionalmente el término ubicuidad para describir DOM, porque se encu
 
 Según W3C, el modelo de objetos de documento es una plataforma y una interfaz independiente del lenguaje que permite a los programas y scripts acceder y actualizar dinámicamente el contenido, la estructura y el estilo de un documento. Los nodos de cada documento están organizados en una estructura de árbol y, por lo tanto, se denominan árbol DOM. jQuery viene con un montón de métodos relacionados con DOM, lo que facilita la manipulación de elementos y atributos. Sin embargo, antes de profundizar en los métodos de jQuery, tomemos un minuto para comprender el árbol DOM.
 
-## En los [videos](https://transpero.net/es/dontorrent-alternativas/), html es el elemento raíz de cualquier árbol DOM. Tiene dos nodos: uno es la cabeza y otro es el cuerpo. Además, el elemento ul tiene hijos li tree, que se utilizan para la navegación. El siguiente código muestra un fragmento de muestra de una página HTML real que usa cada uno de estos elementos del árbol.
+## Videos embebidos en HTML 
+
+En los [videos](https://transpero.net/es/dontorrent-alternativas/), html es el elemento raíz de cualquier árbol DOM. Tiene dos nodos: uno es la cabeza y otro es el cuerpo. Además, el elemento ul tiene hijos li tree, que se utilizan para la navegación. El siguiente código muestra un fragmento de muestra de una página HTML real que usa cada uno de estos elementos del árbol.
